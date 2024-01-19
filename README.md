@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Bem vindo!
+  
+Desenvolvedor Full-Stack</h1>
 
-<!--
-**devlucascantaruti/devlucascantaruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Meus projetos:</h2>
 
-Here are some ideas to get you started:
+- <b>Site de receitas (html & css)</b>
+  - [Site de receitas](https://github.com/devlucascantaruti/livro-receitas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🌱 Estou aprendendo mais sobre:</h2>
+- [Python](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+- [AWS](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+
+<h2> 🤳 Fale comigo:</h2>
+
+[Email](mailto:devlucascantaruti@gmail.com)
+
+## Tecnologias
+<div align="center">
+  <hr>
+    <img src="https://skillicons.dev/icons?i=html,css,js,firebase,java,bootstrap,electron,git,github,react,mongodb,nodejs,jquery">
+</div>
+
+<!---
+lucascantaruti/lucascantaruti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
